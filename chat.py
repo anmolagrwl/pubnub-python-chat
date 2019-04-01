@@ -1,4 +1,4 @@
-from pubnub import Pubnub
+from pubnub.pubnub import Pubnub
 import sys
 import os
 
